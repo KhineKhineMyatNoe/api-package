@@ -1,4 +1,4 @@
-const sampleData = [
+export const sampleData = [
     {
     name: "cat ma",
     value: "cat_ma"
@@ -20,5 +20,3 @@ const sampleData = [
     value: "noe_noe"
 }
 ]
-
-export default sampleData;
