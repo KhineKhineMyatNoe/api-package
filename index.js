@@ -20,3 +20,5 @@ const sampleData = [
     value: "noe_noe"
 }
 ]
+
+export default sampleData;
